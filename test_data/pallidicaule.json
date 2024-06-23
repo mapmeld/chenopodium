@@ -1,0 +1,28 @@
+{
+  "assemblies": [
+    {
+      "name": "Chenopodium_pallidicaule.faa",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "Chenopodium_pallidicaule.faa-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "https://chenopodium-genes.s3.us-west-2.amazonaws.com/Chenopodium_pallidicaule.faa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "https://chenopodium-genes.s3.us-west-2.amazonaws.com/Chenopodium_pallidicaule.faa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": []
+}
