@@ -1,0 +1,28 @@
+{
+  "assemblies": [
+    {
+      "name": "GCA_034703905.1_C.berlandieri_1.0_genomic.fna",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "GCA_034703905.1_C.berlandieri_1.0_genomic.fna-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "https://chenopodium-genes.s3.us-west-2.amazonaws.com/GCA_034703905.1_C.berlandieri_1.0_genomic.fna",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "https://chenopodium-genes.s3.us-west-2.amazonaws.com/GCA_034703905.1_C.berlandieri_1.0_genomic.fna.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": []
+}
